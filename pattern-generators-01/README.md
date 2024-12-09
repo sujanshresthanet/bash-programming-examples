@@ -99,4 +99,4 @@ Contributing
 
 If you would like to contribute to this project, please fork the repository, make your changes, and create a pull request. We welcome all contributions!
 
-Created by **Your Name**. Feel free to contact me at [your.email@example.com](mailto:your.email@example.com).
+Created by **Sujan Shrestha**. Feel free to contact me.
