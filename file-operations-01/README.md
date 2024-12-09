@@ -1,4 +1,4 @@
-File and Directory Operations Script
+File and Directory Operations Script Examples
 ====================================
 
 This is a simple interactive Bash script that provides a variety of file and directory operations that can be performed through a menu-driven interface. The script offers 30 different operations, such as creating files and directories, renaming files, checking disk usage, appending to files, and more. The user can interact with the script by choosing an operation, and after each operation, the script will ask whether the user wants to continue or exit.
